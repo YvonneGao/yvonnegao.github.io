@@ -479,7 +479,11 @@ h3.profile-title {
   margin-bottom: 40px;
 }
 .about-image img {
+<<<<<<< HEAD
   width: 100%;
+=======
+  width: 43%;
+>>>>>>> origin/master
   margin: 2%; 
   /*display: block;*/
 }
