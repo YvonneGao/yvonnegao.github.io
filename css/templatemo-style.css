@@ -480,7 +480,7 @@ h3.profile-title {
 }
 .about-image img {
   width: 100%;
-  margin: 2%; 
+  padding: 2%; 
   /*display: block;*/
 }
 .about-text {
