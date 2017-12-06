@@ -226,7 +226,7 @@ h1, h2, h3, h4, h5 {
 @media screen and (max-width: 1290px) {
   .main-content,
   .banner-bg {
-    width: 84%;
+    width: 76%;
   }
 }
 @media screen and (max-width: 992px) {
@@ -282,7 +282,7 @@ hr {
 @media screen and (max-width: 1290px) {
   .sidebar-menu {
     overflow-y: scroll;
-    width: 30%;
+    width: 24%;
   }
 }
 
@@ -299,7 +299,7 @@ hr {
   overflow: hidden;
   margin-bottom: 20px;
 }
-.profile-image .circle {
+/*.profile-image .circle {
 
   width: 150px;
   height: 150px;
@@ -315,7 +315,7 @@ hr {
     left: 40px;
     width: 150px;
     height: 150px;
-}
+}*/
 .profile-image img {
   width: 100%;
 }
@@ -329,7 +329,7 @@ h3.profile-title {
 }
 
 .main-navigation {
-  margin: 30px 0;
+  margin: 0;
 }
 .main-navigation li {
   display: block;
@@ -438,7 +438,7 @@ h3.profile-title {
 -------------------------------------------------------- */
 /*------ banner ------ */
 .banner-bg {
-  padding: 300px 180px;
+  padding: 20% 10%;
   position: relative;
   background: url("../images/welcome/Jiuzhai.JPG");
   background-repeat: no-repeat;
@@ -479,13 +479,13 @@ h3.profile-title {
   margin-bottom: 40px;
 }
 .about-image img {
-  width: 45%;
+  width: 100%;
   margin: 2%; 
   /*display: block;*/
 }
 .about-text {
  float:left;
- width:45%;
+ /*width:45%;*/
   margin-left: 2%;
   margin-top: 2%;
   text-align: center;
