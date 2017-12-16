@@ -423,8 +423,8 @@ h3.profile-title {
 .toggle-menu {
   width: 100%;
   display: block;
-  padding: 20px;
-  margin-top: 30px;
+  padding: 10px;
+  margin-top: 0px;
   background: #6cc0f7;
   color: white;
   font-size: 18px;
@@ -440,9 +440,9 @@ h3.profile-title {
 .banner-bg {
   padding: 20% 10%;
   position: relative;
-  background: url("../images/welcome/Jiuzhai.JPG");
+  background: url("../images/welcome/Jiuzhai2.JPG");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: right;
   background-size: cover;
   z-index: 2;
 }
@@ -451,7 +451,9 @@ h3.profile-title {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(95, 109, 126, 0.35);
+  /*background: rgba(95, 109, 126, 0.35);*/
+  /*background: rgba(205, 205, 190, 0.35);*/
+  background: rgba(255, 180, 255, 0.25);
   top: 0;
   left: 0;
   z-index: 3;
@@ -580,7 +582,7 @@ h3.profile-title {
 
 /*---------------------------------------------------------
  5. Footer
--------------------------------------------------------- */
+-------------------------------------------------------- 
 #footer p.copyright-text {
   margin: 40px 0;
   font-size: 13px;
@@ -590,4 +592,4 @@ h3.profile-title {
 }
 #footer p.copyright-text a:hover {
   color: #6cc0f7;
-}
+}*/
